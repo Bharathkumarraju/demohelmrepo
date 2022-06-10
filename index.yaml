@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  bkchart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-06-10T12:38:11.440399+08:00"
+    description: A Helm chart for Kubernetes
+    digest: a90ad2886b6aa9ad0a827c9f2746c0003b2017878dcbba12072be6f0a9859a18
+    name: bkchart
+    type: application
+    urls:
+    - bkchart-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-06-10T12:38:11.439926+08:00"
